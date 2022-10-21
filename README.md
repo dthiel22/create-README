@@ -23,46 +23,22 @@ npm install inquirer
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+To start, open the integrated terminal and input node index.js, as such
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+![image showing the obve description](assets/IMG1.JPG)
 
+The program will launch and questions will appear in the integrated terminal. Answer each by inputting an answer and hitting ENTER when the question is answer.
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![image showing the obve description](assets/IMG3.JPG)
 
-Refer to the [https://drive.google.com/file/d/1WBEpy6om2scaJ_o2zyBjtP13HMWln6jx/view](video) to see the program step by step.
+After each question is answered, a new README file will appear in your folder title 'READMEfinal.md'. Feel free to rename it to README.md
 
-## Credits
+![image showing the obve description](assets/IMG4.JPG)
 
-List your collaborators, if any, with links to their GitHub profiles.
+A couple things to note. The badge at the top will change depending on which ever license was selected. The table of contents has links to the following sections in the README. Lastly, the github link created will open the link in your default browser. The email link is blue to stand out and can be copied for the users purpose.
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+Refer to the [video](https://drive.google.com/file/d/1WBEpy6om2scaJ_o2zyBjtP13HMWln6jx/view) to see the program step by step.
 
-If you followed tutorials, include links to those here as well.
+# Test
 
-## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
---
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
-
+Feel free to run the program as many times as you want trying different inputs. Just know for everytime the program runs, the original will be overwritten if the original is not re-named.
