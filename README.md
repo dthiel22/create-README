@@ -31,7 +31,7 @@ The program will launch and questions will appear in the integrated terminal. An
 
 ![image showing the obve description](assets/IMG3.JPG)
 
-After each question is answered, a new README file will appear in your folder title 'READMEfinal.md'. Feel free to rename it to README.md
+After each question is answered, it will notify you the inputs were valid by logging "Worked!". A new README file will appear in your folder title 'READMEfinal.md'. Feel free to rename it to README.md
 
 ![image showing the obve description](assets/IMG4.JPG)
 
